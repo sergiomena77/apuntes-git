@@ -3,6 +3,11 @@
 git remote add origin 'llllllll.git'
 git remote add gitalb 'xxxxxxxx.git'
 
+## borrar remoto
+si grabamos mal remoto
+git remoto rm nombreremoto
+y luego volvemos a redifinirlo
+
 ## Gestión de repositorios remotos
 
 Ya hemos comentado en anteriores capítulos que podemos enlazar a nuestro repositorio git cualquier proyecto git remoto o local.

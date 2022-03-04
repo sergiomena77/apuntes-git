@@ -74,6 +74,7 @@ Para enlazarlo
 git add origin repositorio.git
 ``` 
 
+el push sobre la rama master o cualquier otra rama
 ```bash     
  git push repositorioAlQueEmpujar ramaALaQueEmpujar
 git push origin dev
